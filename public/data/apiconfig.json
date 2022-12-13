@@ -1,0 +1,11 @@
+{
+    "rfpez": {
+        "name": "Federal Government Contracting for Small Businesses",
+        "protocol": "http",
+        "baseURL": "rfpez-apis.presidentialinnovationfellows.org",
+        "publicPath": "",
+        "booleanTrueVal": "true",
+        "booleanFalseVal": "",
+        "auth": ""
+    }
+}

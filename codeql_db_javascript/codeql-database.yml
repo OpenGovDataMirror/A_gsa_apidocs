@@ -1,0 +1,10 @@
+---
+sourceLocationPrefix: "/home/user/asf/cloner/gh/clones/A_gsa_apidocs"
+baselineLinesOfCode: 1108
+unicodeNewlines: true
+columnKind: "utf16"
+primaryLanguage: "javascript"
+creationMetadata:
+  sha: "28aa5be0f8e7b1acdc9fc549787b318f16cb4b0b"
+  cliVersion: "2.11.1"
+  creationTime: "2022-12-13T23:03:32.609690631Z"
